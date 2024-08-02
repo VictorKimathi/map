@@ -9,7 +9,7 @@ Beaker==1.12.1
 beautifulsoup4==4.12.3
 blinker==1.8.2
 blivet==3.8.2
-blivet-gui==2.5.0
+
 branca==0.7.2
 Brlapi==0.8.5
 Brotli==1.1.0
